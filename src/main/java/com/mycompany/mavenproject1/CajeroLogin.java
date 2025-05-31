@@ -5,7 +5,6 @@
 package com.mycompany.mavenproject1;
 
 /**
- *
  * @author GuilleDc
  */
 import java.util.Scanner;
